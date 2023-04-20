@@ -4,4 +4,10 @@
         # # # # # 
         . # . . . 
         . . # . .
-        `</field></block></statement></block></statement></block></xml>
+        `</field><next><block type="device_pause" id="W^q7L^{ykJqklqh)Y|ix"><value name="pause"><shadow type="timePicker" id="|/qfX*J?AaR:SKXOCJ;~"><field name="ms">100</field></shadow></value><next><block type="device_show_leds" id="n*6eTn.D2v]`BKLOTB9@"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></statement></block></statement></block></xml>
